@@ -29,7 +29,7 @@ public class InsertionSort {
 
     // Main method
     public static void main(String[] args) {
-        int[] arr = { 64, 25, 12, 22, 11 };
+        int[] arr = { 64, 25, 12, 22, 11, 234 };
 
         System.out.print("Before sorting: ");
         printArray(arr);
@@ -40,3 +40,6 @@ public class InsertionSort {
         printArray(arr);
     }
 }
+
+// tumne init krdia ab bss add kro commit kro fir url add kro then push -u
+// origin main
